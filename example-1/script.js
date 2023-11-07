@@ -12,7 +12,7 @@ window.onload = function(){
     const acquired = new Acquired('pk_c4ac45debfe91b36e4fb092d2b30f3a5');
     const options = {
       session: sessionId,
-      environment: "development"
+      environment: "test"
     };
 
     // Set up acquired.js and components to use in checkout form, passing the client secret obtained in step 3
