@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Individual Iframe Example - Acquired.com Components</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="./styles.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="https://qaimage.acquired.com/favicon.ico">
+  </head>
+  <body>
+    <div class="container">
+      <form id="payment-form" class="form-main">
+        <div id="payment-component">
+          <div class="input-field" id="cardholder-component"></div>
+          <p class="component-error"></p>
+          <div class="input-field" id="card-number-component"></div>
+          <p class="component-error"></p>
+          <div class="input-field" id="card-expiry-date-component"></div>
+          <p class="component-error"></p>
+          <div class="input-field" id="card-cvv-component"></div>
+          <p class="component-error"></p>
+        </div>
+        <button id="submit">Submit</button>
+        <!-- Display error message to your customers here -->
+        <br>
+        <textarea id="error-message" placeholder="error message" readonly="true"></textarea>
+      </form>
+    </div>
+  </body>
+    <script type="text/javascript" src="https://test-cdn.acquired.com/sdk/v1/acquired.js" integrity="sha384-9GuD+hh/mTAyhQEi+GtYyKB+6rS/C3L9DDa0bpD3G6PeYM2ZmunoFWAMcNE5vJjY" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="./script.js"></script>
+</html>
