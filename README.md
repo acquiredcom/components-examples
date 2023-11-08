@@ -17,11 +17,11 @@ For further information on this product, please refer to the relevant documentat
 
 - [Example 1](./example-1/): Individual iframe example
 
-[![Example 1](https://github.com/acquiredcom/components-examples/raw/main/assets/149580745/1c1c90b1-7f2c-40a2-8264-5ec7035f4e5f)](./example-1/)
+![Screenshot 2023-11-08 at 11 05 23](https://github.com/acquiredcom/components-examples/assets/149580745/1c88e219-f47c-450a-9f56-1d4cf6ff7812)
 
 ## Running locally
 
-To run these examples, you'll need a web server. Even thought the examples consist of plain HTML, CSS, and Javascript, Acquired Components requires a valid hostname (e.g. localhose or 127.0.0.1).
+To run these examples, you'll need a web server. Even thought the examples consist of plain HTML, CSS, and Javascript, Acquired Components requires a valid hostname _(e.g. localhost or 127.0.0.1)._
 
 Follow these steps:
 
