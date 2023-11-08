@@ -2,7 +2,7 @@
 
 For more or other examples please check out our main [README](../)
 
-This example showcases
+This example showcases our individual "Fields" components.
 
 - Basic example
 - Native CSS styling
@@ -11,6 +11,7 @@ This example showcases
 [HTML](./index.html) | [CSS](./styles.css) | [Javascript](./script.js)
 
 ## Documentation
+For further information, please refer to the relevant documentation listed below:
 
 - [Guide](https://docs.acquired.com/docs/components)
 - [API Reference](https://docs.acquired.com/reference/create-session-id)
@@ -19,21 +20,21 @@ This example showcases
 
 ## Running locally
 
-In order to run the examples you need a webserver. Although its plain HTML, CSS and JavaScript Acquired Components needs a valid hostname (e.g. localhost or 127.0.0.1).
+To run these examples, you'll need a web server. Even thought the examples consist of plain HTML, CSS, and Javascript, Acquired Components requires a valid hostname _(e.g. localhost or 127.0.0.1)._
 
-Clone the repo
+1. The first step is to clone the repository.
 
 ```bash
 git clone git@github.com:acquiredcom/components-examples.git
 ```
 
-Navigate to the the repo
+2. Navigate to the the repository.
 
 ```bash
 cd components-example
 ```
 
-visit the examples via a webserver
+3. Access the examples through a web server. Use your web server software of choice to serve the examples. Ensure it's configured to host the content at a valid hostname, such as:
 
 ```bash
 http://localhost/components-example
