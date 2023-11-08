@@ -25,13 +25,13 @@ To run these examples, you'll need a web server. Even thought the examples consi
 
 Follow these steps:
 
-1. Firstly, clone the repository
+1. The first step is to clone the repository.
 
 ```bash
 git clone git@github.com:acquired/components-examples.git
 ```
 
-2. Navigate to the the repository
+2. Navigate to the the repository.
 
 ```bash
 cd components-example
