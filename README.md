@@ -4,13 +4,10 @@ This repository contains examples demonstrating the implementation of [Acquired 
 
 View a live demonstration of these examples here: [https://acquiredcom.github.io/components-examples/](https://github.com/acquiredcom/components-examples/tree/main/example-1)
 
-## Documentation
+For further information on this product, please refer to our Components documentation
 
-For further information on this product, please refer to the relevant documentation listed below:
-
-- [Guide](https://docs.acquired.com/docs/components)
 - [API Reference](https://docs.acquired.com/reference/create-session-id)
-- [Set up & Integrate](https://docs.acquired.com/docs/set-up-and-integrate-components)
+- [Set up & Integrate Guide](https://docs.acquired.com/docs/set-up-and-integrate-components)
 - [Styling](https://docs.acquired.com/docs/styling-components)
 
 ## Examples
