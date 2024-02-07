@@ -1,4 +1,4 @@
-# Example 1
+# Example - Individual Form
 
 For more or other examples please check out our main [README](../)
 
