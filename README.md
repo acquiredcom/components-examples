@@ -1,6 +1,6 @@
 # Acquired.com Components Examples
 
-This repository contains examples demonstrating the implementation of [Acquired Components](https://docs.acquired.com/docs/components). Acquired Components compromises a collection of pre-built UI components supported by a Javascript SDK. It allows you to integrate the necessary cardholder data fields inyour custom checkout, ensuring full PCI-DSS SAQ-A compliance.
+This repository contains examples demonstrating the implementation of [Acquired Components](https://docs.acquired.com/docs/components). Acquired Components compromises a collection of pre-built UI components supported by a Javascript SDK. It allows you to integrate the necessary cardholder data fields in your custom checkout, ensuring full PCI-DSS SAQ-A compliance.
 
 View a live demonstration of these examples here: [https://acquiredcom.github.io/components-examples/](https://github.com/acquiredcom/components-examples/tree/main/example-1)
 
