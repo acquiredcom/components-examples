@@ -7,7 +7,7 @@ window.onload = function(){
     const sessionId = "83f569f7-bea5-327c-1426-617e00ea923c";
 
     /**
-     *  public_key can be found in Settings > API Access.
+     *  public_key can be found in https://hub.acquired.com/#login - Settings > API Access.
      */
     const acquired = new Acquired('pk_c4ac45debfe91b36e4fb092d2b30f3a5');
     const options = {
